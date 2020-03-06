@@ -1,0 +1,39 @@
+F:\CAFE\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\bin\Debug\TInd-MaquinaDeCafe.exe.config
+F:\CAFE\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\bin\Debug\TInd-MaquinaDeCafe.exe
+F:\CAFE\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\bin\Debug\TInd-MaquinaDeCafe.pdb
+F:\CAFE\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd_MaquinaDeCafe.frmCarteira.resources
+F:\CAFE\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd_MaquinaDeCafe.frmMaquinaCafe.resources
+F:\CAFE\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd_MaquinaDeCafe.Properties.Resources.resources
+F:\CAFE\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.csproj.GenerateResource.Cache
+F:\CAFE\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.exe
+F:\CAFE\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.pdb
+F:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\bin\Debug\TInd-MaquinaDeCafe.exe.config
+F:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.exe
+F:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.pdb
+F:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\bin\Debug\TInd-MaquinaDeCafe.exe
+F:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\bin\Debug\TInd-MaquinaDeCafe.pdb
+F:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.csprojResolveAssemblyReference.cache
+F:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd_MaquinaDeCafe.frmCarteira.resources
+F:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd_MaquinaDeCafe.frmMaquinaCafe.resources
+F:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd_MaquinaDeCafe.Properties.Resources.resources
+F:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.csproj.GenerateResource.Cache
+D:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\bin\Debug\TInd-MaquinaDeCafe.exe.config
+D:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.exe
+D:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.pdb
+D:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\bin\Debug\TInd-MaquinaDeCafe.exe
+D:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\bin\Debug\TInd-MaquinaDeCafe.pdb
+D:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.csprojResolveAssemblyReference.cache
+D:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd_MaquinaDeCafe.frmCarteira.resources
+D:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd_MaquinaDeCafe.frmMaquinaCafe.resources
+D:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd_MaquinaDeCafe.Properties.Resources.resources
+D:\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.csproj.GenerateResource.Cache
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\bin\Debug\TInd-MaquinaDeCafe.exe.config
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.exe
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.pdb
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\bin\Debug\TInd-MaquinaDeCafe.exe
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\bin\Debug\TInd-MaquinaDeCafe.pdb
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.csprojResolveAssemblyReference.cache
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd_MaquinaDeCafe.frmCarteira.resources
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd_MaquinaDeCafe.frmMaquinaCafe.resources
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd_MaquinaDeCafe.Properties.Resources.resources
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TInd - Projeto\Programa\TInd-MaquinaDeCafe\TInd-MaquinaDeCafe\obj\Debug\TInd-MaquinaDeCafe.csproj.GenerateResource.Cache
